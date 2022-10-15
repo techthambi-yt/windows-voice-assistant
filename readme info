@@ -1,0 +1,54 @@
+#sindhu_voice_assistant
+-----------------------------------
+voice assistant commands
+--------------------------------
+"who are you": tells information about voice assistant
+
+"help":lists all commands
+
+"change voice":used to change voice assistant voice to boy or girl
+
+"bye bye":closes voice assistant
+--------------------------------
+voice commands
+-------------------------------------
+
+"volume up" or "unmute":increase your volume to maximum
+
+"volume down" or "mute":mute your audio
+
+"screenshot" or "snip": takes a screenshot of current screen
+
+"desktop":takes you to desktop
+
+"file explorer"or"my computer"or"this pc":takes you to files
+
+"notepad":opens notepad
+
+"switch tab":switches to recently opened application 
+
+"shutdown":shutdowns your pc
+
+---------------------------------------
+opening an app
+-----------------------------------------------
+
+step 1 say "open"
+step 2 specify app name:example-"calculator"
+-------------------------------------------
+typing with voice
+----------------------------------------
+say"type"
+and say the things you want to type
+to stop typing say "exit"
+----------------------------------------
+requirements
+-------------------------------------
+installation commands
+python -m pip install pyaudio
+python -m pip install pyautogui
+python -m pip install pyttx3
+python -m pip install SpeechRecognition
+
+
+
